@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HrishikeshParab
-- 👀 I’m interested in Python programming and Data science, Python for android
-- 🌱 I’m currently learning Python Libraries
+- 👀 I’m interested in Python programming and Data science, Python for android.
 
 
 
